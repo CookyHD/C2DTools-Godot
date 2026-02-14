@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://dbuchofmg10k4"
-path="res://.godot/imported/Rect2D.svg-42f4a4b94028a91584c563a67e5f16ed.ctex"
+uid="uid://wmd7kp8iyxqm"
+path="res://.godot/imported/Shapes2D.svg-91aaf88c5b586edb346a56317b5be2d0.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://addons/shapes/icons/Rect2D.svg"
-dest_files=["res://.godot/imported/Rect2D.svg-42f4a4b94028a91584c563a67e5f16ed.ctex"]
+source_file="res://addons/shapes/icons/Shapes2D.svg"
+dest_files=["res://.godot/imported/Shapes2D.svg-91aaf88c5b586edb346a56317b5be2d0.ctex"]
 
 [params]
 

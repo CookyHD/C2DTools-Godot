@@ -1,6 +1,8 @@
 @tool
-extends Node2D
+extends Shapes2D
 class_name Rect2D
+
+## Draws a Rectangle Shape that can be Colored and Positioned.
 
 @export var color:Color = Color.WHITE:
 	set(value):

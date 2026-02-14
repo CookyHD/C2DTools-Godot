@@ -1,6 +1,8 @@
 @tool
-extends Node2D
+extends Shapes2D
 class_name Circle2D
+
+## Draws a Circle Shape that can be Colored and Positioned.
 
 @export var color:Color = Color.WHITE:
 	set(value):
