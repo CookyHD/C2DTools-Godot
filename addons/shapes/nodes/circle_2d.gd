@@ -1,5 +1,5 @@
 @tool
-extends Shapes2D
+extends C2DTools
 class_name Circle2D
 
 ## Draws a Circle Shape that can be Colored and Positioned.

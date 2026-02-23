@@ -1,5 +1,5 @@
 @tool
-extends Shapes2D
+extends C2DTools
 class_name Rect2D
 
 ## Draws a Rectangle Shape that can be Colored and Positioned.
